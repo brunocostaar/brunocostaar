@@ -1,10 +1,10 @@
 # Bruno Costa
 
-**`Computer Science undergraduate @UFPB / 1st semester`**
+**`Computer Science undergraduate @UFPB / 2nd semester`**
 
 Welcome to my profile!
 
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: brunoo.lcn@gmail.com
 
   ---
