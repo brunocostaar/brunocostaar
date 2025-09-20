@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/language-English-blue.svg" alt="English version">
+  </a>
+</div>
+
 # Bruno Costa
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,8 +32,8 @@ Sou um entusiasta de tecnologia e apaixonado por resolver problemas através do 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
