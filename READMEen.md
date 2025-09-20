@@ -16,7 +16,7 @@
 
 ---
 
-### 👋 Sobre Mim
+### 👋 About me
 
 Hello! I'm Bruno. A **Computer Science** undergraduate at Federal University of Paraíba - UFPB. I'm currently in my first year.
 
