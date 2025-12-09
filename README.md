@@ -31,10 +31,18 @@ I'm a technology enthusiast and passionate about solving problems through code. 
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunocostaar&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostaar&layout=compact&theme=dracula&hide_border=true)
+<div align="center">
+  <a href="https://github.com/brunocostaar">
+    <img src="https://streak-stats.demolab.com?user=brunocostaar&theme=dracula" alt="Bruno's Streak" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/brunocostaar">
+    <img src="https://github-profile-trophy.vercel.app/?username=brunocostaar&theme=dracula&no-frame=true&margin-w=4" alt="Bruno's Trophies" />
+  </a>
+</div>
 
 ---
 
