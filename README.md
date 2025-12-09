@@ -31,15 +31,10 @@ I'm a technology enthusiast and passionate about solving problems through code. 
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/brunocostaar">
-    <img src="https://github-readme-stats.vercel.app/api?username=brunocostaar&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Bruno's GitHub Stats" />
-  </a>
-  <a href="https://github.com/brunocostaar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostaar&layout=compact&theme=dracula&hide_border=true" height="180" alt="Bruno's Top Languages" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunocostaar&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostaar&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
