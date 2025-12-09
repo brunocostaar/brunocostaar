@@ -6,13 +6,11 @@ Hello! I'm Bruno. A **Computer Science** undergraduate at Federal University of 
 
 I'm a technology enthusiast and passionate about solving problems through code. I'm just beginning my programming journey and always looking for new challenges to expand my knowledge.
 
--   🌱 I am currently focused on deepening my knowledge in **Web Development**, **Data Science** and **Data Structures**.
--   💡 I am interested in software development, algorithms and artificial intelligence.
--   💬 Feel free to get in touch to exchange ideas about projects or technology!
+- 🌱 I am currently focused on deepening my knowledge in **Web Development**, **Data Science** and **Data Structures**.
+- 💡 I am interested in software development, algorithms and artificial intelligence.
+- 💬 Feel free to get in touch to exchange ideas about projects or technology!
 
 ---
-
-### 💻 Tech Stack
 
 ### 💻 Tech Stack
 
@@ -29,6 +27,19 @@ I'm a technology enthusiast and passionate about solving problems through code. 
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4c566a?style=for-the-badge&logo=pypi&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/brunocostaar">
+    <img src="https://github-readme-stats.vercel.app/api?username=brunocostaar&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Bruno's GitHub Stats" />
+  </a>
+  <a href="https://github.com/brunocostaar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostaar&layout=compact&theme=dracula&hide_border=true" height="180" alt="Bruno's Top Languages" />
+  </a>
+</div>
 
 ---
 
