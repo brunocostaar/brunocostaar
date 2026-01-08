@@ -38,6 +38,8 @@ I'm a technology enthusiast and passionate about solving problems through code. 
 ![](https://nirzak-streak-stats.vercel.app/?user=brunocostaar&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostaar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brunocostaar&layout=pie)
+
 ---
 
 ### 📫 How to find me:
