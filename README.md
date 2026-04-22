@@ -2,40 +2,45 @@
 
 ### 👋 About me
 
-Hello! I'm Bruno. A **Computer Science** undergraduate at Federal University of Paraíba - UFPB. I'm currently in my third semester.
+Hello! I'm Bruno. A **Computer Science** undergraduate at the Federal University of Paraíba (UFPB), currently in my fourth semester.
 
-I'm a technology enthusiast and passionate about solving problems through code. I'm just beginning my programming journey and always looking for new challenges to expand my knowledge.
+I am a software developer passionate about solving complex problems, building scalable systems, and understanding how things work under the hood.
 
-- 🌱 I am currently focused on deepening my knowledge in **Web Development**, **Data Science** and **Data Structures**.
-- 💡 I am interested in software development, algorithms and artificial intelligence.
-- 💬 Feel free to get in touch to exchange ideas about projects or technology!
+- 💼 I am a Java **Backend Developer** excited to build impactful stuff!
+- 🌱 Focused on deepening my knowledge in **Backend Development**, **Software Architecture**, and **Machine Learning**.
+- 💬 Feel free to get in touch to exchange ideas about systems development, backend engineering, or technology in general!
 
 ---
 
 ### 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+**Languages**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/Sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4c566a?style=for-the-badge&logo=pypi&logoColor=white)
+**Frameworks & Libraries**<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+**Databases & DevOps**<br>
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=brunocostaar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=brunocostaar&theme=date_night&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunocostaar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=brunocostaar&theme=date_night&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 ---
 
