@@ -1,59 +1,97 @@
----
+<div align="center">
 
-### 👋 About me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=640&height=45&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;CS+Undergrad+%40+UFPB;Building+systems+that+scale" alt="Bruno Araújo" />
 
-Hello! I'm Bruno. A **Computer Science** undergraduate at the Federal University of Paraíba (UFPB), currently in my fourth semester.
-
-I am a software developer passionate about solving complex problems, building scalable systems, and understanding how things work under the hood.
-
-- 💼 I am a Java **Backend Developer** excited to build impactful stuff!
-- 🌱 Focused on deepening my knowledge in **Backend Development**, **Software Architecture**, and **Machine Learning**.
-- 💬 Feel free to get in touch to exchange ideas about systems development, backend engineering, or technology in general!
-
----
-
-### 💻 Tech Stack
-
-**Languages**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frameworks & Libraries**<br>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Databases & DevOps**<br>
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocostaar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=brunocostaar&theme=date_night&hide_border=false" alt="GitHub Streak"/>
+<p>
+  <a href="https://brunocostaar.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/portfolio-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=3FB950&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/brunocostaar/">
+    <img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=3FB950&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brunoo.lcn@gmail.com">
+    <img src="https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=3FB950&labelColor=0D1117" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/João_Pessoa,_BR-0D1117?style=flat-square&logo=googlemaps&logoColor=3FB950&labelColor=0D1117" alt="Location" />
 </p>
 
+</div>
+
 ---
 
-### 📫 How to find me:
+### `$ whoami`
 
-<p align="left">
-  <a href="https://brunocostaar.github.io/Portfolio/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Bruno's Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brunocostaar/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocostaar"/>
-  </a>
-  <a href="mailto:brunoo.lcn@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brunoo.lcn@gmail.com"/>
-  </a>
-</p>
+```yaml
+name:       Bruno Araújo
+role:       Backend Developer
+education:  BSc Computer Science @ UFPB   # 5th semester
+focus:      [ backend engineering, software architecture, machine learning ]
+daily:      Java · Spring Boot · PostgreSQL · Docker
+interests:  distributed systems, clean architecture, how things work under the hood
+open_to:    collaboration, internships, technical conversations
+```
+
+I like problems that don't fit in a single file — the ones where the design decision matters more than the syntax. Currently going deep on backend architecture and the internals behind the abstractions.
+
+---
+
+### `$ cat stack.txt`
+
+<table>
+  <tr>
+    <td width="120"><sub><b>LANGUAGES</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" height="36" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>BACKEND</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" height="36" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>FRONTEND</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="36" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>DATA</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="36" /></td>
+  </tr>
+  <tr>
+    <td><sub><b>TOOLING</b></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="36" /></td>
+  </tr>
+</table>
+
+---
+
+### `$ ls -la ~/projects`
+
+<!-- TODO: replace the rows below with your real repositories.
+     Keep it to 3–4 projects — the ones you'd actually defend in an interview. -->
+
+| project | what it does | stack |
+| :--- | :--- | :--- |
+| **[project-name](https://github.com/brunocostaar/repo)** | One line on the problem it solves — not the feature list. | `Java` `Spring Boot` `PostgreSQL` |
+| **[project-name](https://github.com/brunocostaar/repo)** | What was technically hard about it. | `Java` `Docker` |
+| **[project-name](https://github.com/brunocostaar/repo)** | The decision you'd talk about in an interview. | `Python` |
+
+<sub>→ more at <a href="https://brunocostaar.github.io/Portfolio/">brunocostaar.github.io/Portfolio</a></sub>
+
+---
+
+### `$ git log --stat`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=brunocostaar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=8B949E&icon_color=3FB950&border_radius=8" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostaar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=8B949E&border_radius=8" alt="Top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=brunocostaar&hide_border=true&border_radius=8&background=0D1117&stroke=21262D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunocostaar&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=3FB950&hide_border=true&radius=8&custom_title=Contribution%20activity" alt="Activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>$ exit</code> — thanks for stopping by. Reach me at <a href="mailto:brunoo.lcn@gmail.com">brunoo.lcn@gmail.com</a></sub>
+</div>
