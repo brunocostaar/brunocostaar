@@ -64,14 +64,11 @@ I like problems that don't fit in a single file — the ones where the design de
 
 ### `$ ls -la ~/projects`
 
-<!-- TODO: replace the rows below with your real repositories.
-     Keep it to 3–4 projects — the ones you'd actually defend in an interview. -->
-
 | project | what it does | stack |
 | :--- | :--- | :--- |
-| **[project-name](https://github.com/brunocostaar/repo)** | One line on the problem it solves — not the feature list. | `Java` `Spring Boot` `PostgreSQL` |
-| **[project-name](https://github.com/brunocostaar/repo)** | What was technically hard about it. | `Java` `Docker` |
-| **[project-name](https://github.com/brunocostaar/repo)** | The decision you'd talk about in an interview. | `Python` |
+| **[HitScraper](https://github.com/brunocostaar/HitScraper)** | Spotify playlist creator | `Java` `Spring Boot` `PostgreSQL` |
+| **[PokeHub](https://github.com/brunocostaar/back_pokehub)** | Full pokemon fan platform | `Java` `Docker` |
+| **[Data Structures](https://github.com/brunocostaar/Data-Structures)** | The classical Data Structures you need to know | `C` |
 
 <sub>→ more at <a href="https://brunocostaar.github.io/Portfolio/">brunocostaar.github.io/Portfolio</a></sub>
 
