@@ -83,8 +83,7 @@ I like problems that don't fit in a single file — the ones where the design de
 
 <img height="165" src="https://streak-stats.demolab.com?user=brunocostaar&hide_border=true&border_radius=8&background=0D1117&stroke=21262D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="Streak" />
 
-<img src="https://github-readme-stats-iota-one-26.vercel.app/graph?username=brunocostaar&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=3FB950&hide_border=true&radius=8&custom_title=Contribution%20activity" alt="Activity graph" />
-
+<img src="https://github-readme-activity-graph-ashy-beta.vercel.app/graph?username=brunocostaar&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=3FB950&hide_border=true&radius=8&custom_title=Contribution%20activity" alt="Activity graph" />
 </div>
 
 ---
