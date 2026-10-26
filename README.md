@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=640&height=45&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;CS+Undergrad+%40+UFPB;Building+systems+that+scale" alt="Bruno Araújo" />
 
 <p>
-  <a href="https://brunocostaar.github.io/Portfolio/">
+  <a href="https://brunocostaar.github.io">
     <img src="https://img.shields.io/badge/portfolio-0D1117?style=flat-square&logo=firefoxbrowser&logoColor=3FB950&labelColor=0D1117" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/brunocostaar/">
