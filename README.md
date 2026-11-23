@@ -66,9 +66,9 @@ I like problems that don't fit in a single file — the ones where the design de
 
 | project | what it does | stack |
 | :--- | :--- | :--- |
-| **[HitScraper](https://github.com/brunocostaar/HitScraper)** | Spotify playlist creator | `Java` `Spring Boot` `PostgreSQL` |
-| **[PokeHub](https://github.com/brunocostaar/back_pokehub)** | Full pokemon fan platform | `Java` `Docker` |
-| **[Data Structures](https://github.com/brunocostaar/Data-Structures)** | The classical Data Structures you need to know | `C` |
+| **[Free ENEM](https://github.com/brunocostaar/freenem)** | Free, open-source ENEM study platform with Google sign-in and AI essay feedback via DeepSeek. In development. | `React` `Fastify` `PostgreSQL` |
+| **[Rota Custo](https://github.com/brunocostaar/rotacusto)** | Road-trip cost planning with dynamic programming to optimize refueling stops. | `Java 21` `Spring Boot` `PostGIS` `OSRM` |
+| **Cora** | WhatsApp AI headhunter prototype with automated follow-up. Team finalist at Converge Challenge powered by Tako. | `AI Agent` `WhatsApp` |
 
 <sub>→ more at <a href="https://brunocostaar.github.io/Portfolio/">brunocostaar.github.io/Portfolio</a></sub>
 
