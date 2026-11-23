@@ -83,7 +83,7 @@ I like problems that don't fit in a single file — the ones where the design de
 
 <img height="165" src="https://streak-stats.demolab.com?user=brunocostaar&hide_border=true&border_radius=8&background=0D1117&stroke=21262D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="Streak" />
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Contribution activity" />
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribution activity" />
 </div>
 
 ---
