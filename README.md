@@ -69,7 +69,7 @@ I like problems that don't fit in a single file — the ones where the design de
 | **[Free ENEM](https://github.com/brunocostaar/freenem)** | Free, open-source ENEM study platform with Google sign-in and AI essay feedback via DeepSeek. In development. | `React` `Fastify` `PostgreSQL` |
 | **[Rota Custo](https://github.com/brunocostaar/rotacusto)** | Road-trip cost planning with dynamic programming to optimize refueling stops. | `Java 21` `Spring Boot` `PostGIS` `OSRM` |
 
-<sub>→ more at <a href="https://brunocostaar.github.io/Portfolio/">brunocostaar.github.io/Portfolio</a></sub>
+<sub>→ more at <a href="https://brunocostaar.github.io">brunocostaar.github.io/</a></sub>
 
 ---
 
