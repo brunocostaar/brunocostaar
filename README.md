@@ -68,7 +68,6 @@ I like problems that don't fit in a single file — the ones where the design de
 | :--- | :--- | :--- |
 | **[Free ENEM](https://github.com/brunocostaar/freenem)** | Free, open-source ENEM study platform with Google sign-in and AI essay feedback via DeepSeek. In development. | `React` `Fastify` `PostgreSQL` |
 | **[Rota Custo](https://github.com/brunocostaar/rotacusto)** | Road-trip cost planning with dynamic programming to optimize refueling stops. | `Java 21` `Spring Boot` `PostGIS` `OSRM` |
-| **Cora** | WhatsApp AI headhunter prototype with automated follow-up. Team finalist at Converge Challenge powered by Tako. | `AI Agent` `WhatsApp` |
 
 <sub>→ more at <a href="https://brunocostaar.github.io/Portfolio/">brunocostaar.github.io/Portfolio</a></sub>
 
